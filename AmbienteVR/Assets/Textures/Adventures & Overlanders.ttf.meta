@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b9a9839f8d4805645a7de1c26700a528
+timeCreated: 1496235523
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Adventures  Overlanders
+  fontNames:
+  - Adventures  Overlanders
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
